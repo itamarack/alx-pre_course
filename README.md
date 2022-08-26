@@ -1,1 +1,1 @@
-This README.md belongs to 0x01-git
+GitHub.com - alx-pre_course
